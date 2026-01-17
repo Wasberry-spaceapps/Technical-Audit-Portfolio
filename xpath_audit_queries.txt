@@ -1,0 +1,10 @@
+// --- XPATH QUERIES FOR IMAGE AUDIT ---
+
+// 1. Find all images in the entire 40,000-file repository:
+//image
+
+// 2. Find only images that use the "legacy" naming convention (Non-Compliant):
+//image[contains(@href, 'legacy')]
+
+// 3. Find images that are missing alternative text (Accessibility Check):
+//image[not(alt)]
