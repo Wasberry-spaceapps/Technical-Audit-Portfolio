@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="branding_audit_demo">
+  <title>Compliance Audit Sample</title>
+  <body>
+    <section>
+      <title>Branding Review</title>
+      <p>This file contains a mix of compliant and non-compliant assets.</p>
+      <image href="images/v1/legacy_logo_2022.png" id="img_001">
+        <alt>Old Branding Logo</alt>
+      </image>
+      <image href="images/v2/current_hero_banner.png" id="img_002">
+        <alt>Standard 2026 Hero Image</alt>
+      </image>
+    </section>
+  </body>
+</topic>
