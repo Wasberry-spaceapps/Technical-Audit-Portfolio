@@ -1,0 +1,4 @@
+Batch_ID,File_Path,Image_ID,Status,Action_Taken,Comment,Git_Hash
+B001,/content/topics/intro.dita,img_001,Non-Compliant,Removed,Legacy logo detected,ab12345
+B001,/content/topics/intro.dita,img_002,Compliant,None,Current 2026 asset,N/A
+B002,/content/safety/guide.dita,img_998,Non-Compliant,Removed,Outdated icon set,cd67890
